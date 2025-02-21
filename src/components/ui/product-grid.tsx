@@ -11,7 +11,7 @@ const products = [
     id: 1,
     name: "iPhone 15 Pro",
     price: 999,
-    image: "https://images.unsplash.com/photo-1696426505729-17401c07d92f",
+    image: "https://images.unsplash.com/photo-1697019551687-c1aaef817d31",
     category: "Smartphone",
     description: "A17 Pro chip, 48MP camera",
     gradient: "from-purple-500/20 via-transparent to-blue-500/20"
@@ -38,7 +38,7 @@ const products = [
     id: 4,
     name: "iPad Air",
     price: 599,
-    image: "https://images.unsplash.com/photo-1586339392738-65847e399f7e",
+    image: "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0",
     category: "Tablet",
     description: "M1 chip, 10.9-inch display",
     gradient: "from-orange-500/20 via-transparent to-amber-500/20"
