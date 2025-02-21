@@ -26,7 +26,7 @@ export function Footer() {
   ]
 
   return (
-    <footer className="w-full py-8 bg-background border-t">
+    <footer className="w-full py-8 bg-background">
       <div className="container mx-auto px-4">
         <AnimatedSocialIcons 
           icons={socialIcons}
