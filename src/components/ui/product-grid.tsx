@@ -11,7 +11,7 @@ const products = [
     id: 1,
     name: "iPhone 15 Pro",
     price: 999,
-    image: "https://images.unsplash.com/photo-1705771800526-e9b84c421da7",
+    image: "https://images.unsplash.com/photo-1696426505729-17401c07d92f",
     category: "Smartphone",
     description: "A17 Pro chip, 48MP camera",
     gradient: "from-purple-500/20 via-transparent to-blue-500/20"
