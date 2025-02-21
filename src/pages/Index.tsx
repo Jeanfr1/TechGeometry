@@ -1,6 +1,7 @@
 
 import { HeroGeometric } from "@/components/ui/shape-landing-hero";
 import { FeaturedProduct } from "@/components/ui/featured-product";
+import { ProductShowcase } from "@/components/ui/product-showcase";
 
 const Index = () => {
   return (
@@ -10,9 +11,8 @@ const Index = () => {
         title1="Next Generation"
         title2="Tech Essentials"
       />
-      <div className="container mx-auto px-4">
-        <FeaturedProduct />
-      </div>
+      <FeaturedProduct />
+      <ProductShowcase />
     </div>
   );
 };
