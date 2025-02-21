@@ -9,11 +9,11 @@ import { cn } from "@/lib/utils"
 const products = [
   {
     id: 1,
-    name: "iPhone 15 Pro",
-    price: 999,
-    image: "https://images.unsplash.com/photo-1697019551687-c1aaef817d31",
-    category: "Smartphone",
-    description: "A17 Pro chip, 48MP camera",
+    name: "MacBook Air M2",
+    price: 1199,
+    image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    category: "Laptop",
+    description: "M2 chip, 13-inch display",
     gradient: "from-purple-500/20 via-transparent to-blue-500/20"
   },
   {
