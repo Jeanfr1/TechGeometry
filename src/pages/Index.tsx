@@ -4,10 +4,12 @@ import { FeaturedProduct } from "@/components/ui/featured-product";
 import { ProductShowcase } from "@/components/ui/product-showcase";
 import { ProductGrid } from "@/components/ui/product-grid";
 import { Footer } from "@/components/ui/footer";
+import { Navigation } from "@/components/ui/navigation";
 
 const Index = () => {
   return (
     <div className="flex flex-col min-h-screen">
+      <Navigation />
       <div className="flex-1">
         <div className="flex flex-col gap-8">
           <HeroGeometric
