@@ -11,7 +11,7 @@ const products = [
     id: 1,
     name: "iPhone 15 Pro",
     price: 999,
-    image: "/placeholder.svg",
+    image: "https://images.unsplash.com/photo-1705771800526-e9b84c421da7",
     category: "Smartphone",
     description: "A17 Pro chip, 48MP camera",
     gradient: "from-purple-500/20 via-transparent to-blue-500/20"
@@ -20,7 +20,7 @@ const products = [
     id: 2,
     name: "Galaxy Watch 6",
     price: 299,
-    image: "/placeholder.svg",
+    image: "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9",
     category: "Smartwatch",
     description: "Advanced health tracking",
     gradient: "from-emerald-500/20 via-transparent to-teal-500/20"
@@ -29,7 +29,7 @@ const products = [
     id: 3,
     name: "AirPods Pro",
     price: 249,
-    image: "/placeholder.svg",
+    image: "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7",
     category: "Audio",
     description: "Active noise cancellation",
     gradient: "from-pink-500/20 via-transparent to-rose-500/20"
@@ -38,7 +38,7 @@ const products = [
     id: 4,
     name: "iPad Air",
     price: 599,
-    image: "/placeholder.svg",
+    image: "https://images.unsplash.com/photo-1586339392738-65847e399f7e",
     category: "Tablet",
     description: "M1 chip, 10.9-inch display",
     gradient: "from-orange-500/20 via-transparent to-amber-500/20"
