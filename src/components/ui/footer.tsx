@@ -13,15 +13,18 @@ export function Footer() {
     },
     { 
       Icon: Twitter,
-      href: "https://twitter.com" 
+      href: "https://twitter.com",
+      className: "hover:bg-accent"
     },
     { 
       Icon: Linkedin,
-      href: "https://linkedin.com" 
+      href: "https://linkedin.com",
+      className: "hover:bg-accent"
     },
     { 
       Icon: Instagram,
-      href: "https://instagram.com" 
+      href: "https://instagram.com",
+      className: "hover:bg-accent"
     }
   ]
 
