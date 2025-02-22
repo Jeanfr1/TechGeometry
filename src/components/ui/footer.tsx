@@ -7,22 +7,22 @@ import { BackgroundBeamsWithCollision } from "./background-beams-with-collision"
 
 export function Footer() {
   const socialIcons = [
-    { 
+    {
       Icon: Github,
       href: "https://github.com",
       className: "hover:bg-accent"
     },
-    { 
+    {
       Icon: Twitter,
       href: "https://twitter.com",
       className: "hover:bg-accent"
     },
-    { 
+    {
       Icon: Linkedin,
       href: "https://linkedin.com",
       className: "hover:bg-accent"
     },
-    { 
+    {
       Icon: Instagram,
       href: "https://instagram.com",
       className: "hover:bg-accent"
@@ -44,14 +44,14 @@ export function Footer() {
               </div>
             </div>
           </h2>
-          
-          <div className="mt-12">
-            <AnimatedSocialIcons 
+
+          <div className="mt-12 relative z-10">
+            <AnimatedSocialIcons
               icons={socialIcons}
-              iconSize={20}
-              className="mb-4"
+              iconSize={24}
+              className="mb-8"
             />
-            <div className="text-center text-sm text-muted-foreground">
+            <div className="text-center text-sm text-muted-foreground/80 hover:text-muted-foreground transition-colors">
               Made by <a href="https://github.com/agenceJaraujo" className="font-medium hover:text-foreground transition-colors" target="_blank" rel="noopener noreferrer">agenceJaraujo</a>
             </div>
           </div>

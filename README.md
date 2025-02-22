@@ -1,69 +1,148 @@
-# Welcome to your Lovable project
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=2000&q=80" alt="Project Banner" width="100%" style="border-radius: 10px;">
 
-## Project info
+  <h1>🌟 Geometric Hero Display</h1>
+  <p>A premium tech e-commerce experience with stunning geometric design</p>
 
-**URL**: https://lovable.dev/projects/626b1d93-aeb3-4bf9-b94c-571394350123
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  </p>
+</div>
 
-## How can I edit this code?
+## ✨ Features
 
-There are several ways of editing your application.
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80" alt="Tech Features" width="100%" style="border-radius: 10px;">
+</div>
 
-**Use Lovable**
+### 🎯 Premium Shopping Experience
+- Stunning product showcases with geometric design elements
+- Interactive product cards with smooth animations
+- Dark theme optimized for premium tech aesthetics
+- Responsive design for all devices
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/626b1d93-aeb3-4bf9-b94c-571394350123) and start prompting.
+### 🚀 Modern Tech Stack
+- Built with **React** & **TypeScript** for robust development
+- Styled using **Tailwind CSS** for modern, responsive design
+- **shadcn/ui** components for consistent UI elements
+- **Framer Motion** for smooth animations
 
-Changes made via Lovable will be committed automatically to this repo.
+### 💫 Key Components
+- Animated social media integration
+- Dynamic product wishlist
+- Modern account management
+- Geometric background patterns
 
-**Use your preferred IDE**
+### 🎨 Design Philosophy
+- Premium tech aesthetic with geometric elements
+- Dark theme with gradient accents
+- Backdrop blur effects for depth
+- Responsive and accessible design
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🖥 Screenshots
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80" alt="Dashboard" width="100%" style="border-radius: 10px;">
+  <p><em>Modern dashboard with geometric elements</em></p>
+</div>
 
-Follow these steps:
+## 🚀 Quick Start
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate to project directory
+cd geometric-hero-display
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 📱 Responsive Design
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&w=800&q=80" alt="Responsive Design" width="100%" style="border-radius: 10px;">
+  <p><em>Seamless experience across all devices</em></p>
+</div>
 
-**Use GitHub Codespaces**
+## 🎯 For Recruiters
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Why This Project Stands Out
 
-## What technologies are used for this project?
+1. **Modern Architecture**
+   - Type-safe development with TypeScript
+   - Component-driven development
+   - Modern React patterns and hooks
 
-This project is built with .
+2. **Performance Optimized**
+   - Lazy loading for optimal load times
+   - Efficient state management
+   - Optimized assets and animations
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+3. **Clean Code Practices**
+   - Consistent coding standards
+   - Well-documented components
+   - Modular architecture
 
-## How can I deploy this project?
+4. **User Experience**
+   - Intuitive navigation
+   - Smooth animations
+   - Accessibility focused
 
-Simply open [Lovable](https://lovable.dev/projects/626b1d93-aeb3-4bf9-b94c-571394350123) and click on Share -> Publish.
+## 🛠 Development Features
 
-## I want to use a custom domain - is that possible?
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1555099962-4199c345e5dd?auto=format&fit=crop&w=800&q=80" alt="Development Features" width="100%" style="border-radius: 10px;">
+</div>
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+### Tech Stack Highlights
+
+```typescript
+// Example of our modern component architecture
+interface ProductCardProps {
+  title: string;
+  price: number;
+  image: string;
+  description: string;
+}
+
+export const ProductCard: React.FC<ProductCardProps> = ({
+  title,
+  price,
+  image,
+  description
+}) => {
+  // Modern React patterns with TypeScript
+  // Tailwind CSS for styling
+  // Framer Motion for animations
+};
+```
+
+## 🌟 Contributing
+
+We welcome contributions! Feel free to:
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80" alt="Footer Banner" width="100%" style="border-radius: 10px;">
+
+  <p>Built with ❤️ by <a href="https://github.com/agenceJaraujo">agenceJaraujo</a></p>
+</div>
