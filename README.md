@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=2000&q=80" alt="Project Banner" width="100%" style="border-radius: 10px;">
 
-  <h1>🌟 Geometric Hero Display</h1>
+  <h1>🌟 TechGeometry</h1>
   <p>A premium tech e-commerce experience with stunning geometric design</p>
 
   <p align="center">
@@ -13,10 +13,6 @@
 </div>
 
 ## ✨ Features
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80" alt="Tech Features" width="100%" style="border-radius: 10px;">
-</div>
 
 ### 🎯 Premium Shopping Experience
 - Stunning product showcases with geometric design elements
@@ -42,13 +38,6 @@
 - Backdrop blur effects for depth
 - Responsive and accessible design
 
-## 🖥 Screenshots
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80" alt="Dashboard" width="100%" style="border-radius: 10px;">
-  <p><em>Modern dashboard with geometric elements</em></p>
-</div>
-
 ## 🚀 Quick Start
 
 ```bash
@@ -56,7 +45,7 @@
 git clone <YOUR_GIT_URL>
 
 # Navigate to project directory
-cd geometric-hero-display
+cd TechGeometry
 
 # Install dependencies
 npm install
@@ -64,13 +53,6 @@ npm install
 # Start development server
 npm run dev
 ```
-
-## 📱 Responsive Design
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&w=800&q=80" alt="Responsive Design" width="100%" style="border-radius: 10px;">
-  <p><em>Seamless experience across all devices</em></p>
-</div>
 
 ## 🎯 For Recruiters
 
@@ -97,10 +79,6 @@ npm run dev
    - Accessibility focused
 
 ## 🛠 Development Features
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1555099962-4199c345e5dd?auto=format&fit=crop&w=800&q=80" alt="Development Features" width="100%" style="border-radius: 10px;">
-</div>
 
 ### Tech Stack Highlights
 
@@ -142,7 +120,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80" alt="Footer Banner" width="100%" style="border-radius: 10px;">
-
   <p>Built with ❤️ by <a href="https://github.com/agenceJaraujo">agenceJaraujo</a></p>
 </div>
